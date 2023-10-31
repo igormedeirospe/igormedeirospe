@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre:
 Olá meu nome é Igor, sou um jovem de 18 anos.<br>Curso analise e desenvolvimento de sistemas.<br>atualmente atuo como desenvolvedor web fullstack<br>tecnologias: HTML, CSS, JAVASCRIPT E MYSQL.
 
 
@@ -12,15 +12,7 @@ Olá meu nome é Igor, sou um jovem de 18 anos.<br>Curso analise e desenvolvimen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=igormedeirospe&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igormedeirospe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=igormedeirospe&icon=7&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=igormedeirospe&icon=7&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-igormedeirospe/igormedeirospe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
