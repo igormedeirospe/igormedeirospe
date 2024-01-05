@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Olá meu nome é Igor, sou um jovem de 18 anos.<br>Curso analise e desenvolvimento de sistemas.<br>atualmente atuo como desenvolvedor web fullstack<br>tecnologias: HTML, CSS, JAVASCRIPT E MYSQL.
+Olá meu nome é Igor, sou um jovem de 18 anos.<br>Curso analise e desenvolvimento de sistemas.<br>atualmente atuo como desenvolvedor front-end<br>tecnologias: HTML, CSS, JAVASCRIPT, BOOTSTRAP E REACT.
 
 
 ## 🌐 Socials:
