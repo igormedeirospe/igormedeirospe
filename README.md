@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Olá meu nome é Igor, sou um jovem de 19 anos.<br>Curso analise e desenvolvimento de sistemas.<br>atualmente desenvolvedor Back-end<br>focado no desenvolvimento de plugins utilizando a linguagem Java.
+Olá meu nome é Igor, sou um jovem de 20 anos.<br>Curso analise e desenvolvimento de sistemas.<br>atualmente desenvolvedor Back-end<br>focado no desenvolvimento de plugins utilizando a linguagem Java.
 
 
 ## 🌐 Socials:
